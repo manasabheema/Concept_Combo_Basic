@@ -7,7 +7,7 @@
 ```diff
 - text in red
 + text in green
-! text in orange
+! text in white
 # text in gray
 @@ text in purple (and bold)@@
 ```
